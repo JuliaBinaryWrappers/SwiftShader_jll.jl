@@ -1,28 +1,36 @@
 [[SwiftShader]]
-arch = "x86_64"
-git-tree-sha1 = "571b92e4e1a0474d579859eb3ceb89f7c9476529"
+arch = "aarch64"
+git-tree-sha1 = "23f9e341ae09f661652708f1ebfa9dd49387f184"
 os = "macos"
 
     [[SwiftShader.download]]
-    sha256 = "356c6ee05bc3dc0e9c21a7c1d96d1e7ce42e6f36f281829d3b65aeb7046694ed"
-    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.0+0/SwiftShader.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "206e918947dc69a01892a630d3d420fb68a0654e9b91b1b465776112e3a90bc8"
+    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.1+0/SwiftShader.v0.1.1.aarch64-apple-darwin.tar.gz"
+[[SwiftShader]]
+arch = "x86_64"
+git-tree-sha1 = "3c067ab24b6d2a0e976924c1f20beb53e0e98c90"
+os = "macos"
+
+    [[SwiftShader.download]]
+    sha256 = "06b8ed1ccb570473022b486d202febe1a143877e8ba8cb34fee6cbe72d558c20"
+    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.1+0/SwiftShader.v0.1.1.x86_64-apple-darwin.tar.gz"
 [[SwiftShader]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e94aafd7f2a12b0bcb1fa012f9525665473672b3"
+git-tree-sha1 = "7ff30c14d5a2d55ad89ba342cadd8af87417b3a1"
 libc = "glibc"
 os = "linux"
 
     [[SwiftShader.download]]
-    sha256 = "a48671e9298a44cccbf163d93b0c9e76a65c5458ab2b15b90a0efb6a54c87746"
-    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.0+0/SwiftShader.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f3859e590bb58fab3b2458acc0977eda4ea39f2769b3e413de93a6984faad1a7"
+    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.1+0/SwiftShader.v0.1.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[SwiftShader]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "92ef6528ec0492010323f96b079eb94fd838b31e"
+git-tree-sha1 = "7058eea491ed256b57174800ddf2569262a67472"
 libc = "glibc"
 os = "linux"
 
     [[SwiftShader.download]]
-    sha256 = "6ee57717373b426ac52372feb341899ea780f99fb819c62fb9f2e0fe83ab9254"
-    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.0+0/SwiftShader.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "079f408756c10d0030c99a6a097ad1cebc18765b328fd290ee8104947f99e617"
+    url = "https://github.com/JuliaBinaryWrappers/SwiftShader_jll.jl/releases/download/SwiftShader-v0.1.1+0/SwiftShader.v0.1.1.x86_64-linux-gnu-cxx11.tar.gz"
